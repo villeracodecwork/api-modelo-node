@@ -7,7 +7,7 @@ Content-Type: application/json
 
 {
     "titulo_libro": "titulo 2",
-    "autor":"autor 2",
+    "autor":"autor 3",
     "edicion": 2
 }
 
